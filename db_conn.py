@@ -208,7 +208,7 @@ class DatabaseManager:
            item = self.execute_query(query,en_word)
            if item["msg"]=="ERROR":
                 self.ret_msg["msg"] ="ERROR"
-                self.ret_msg["from"]=f"{item["from"]} ---> show_one_item_en()"
+                self.ret_msg["from"]=f'{item["from"]} ---> show_one_item_en()'
                 self.ret_msg['info']=item['info']
                 self.ret_msg['item']=None
            else:
