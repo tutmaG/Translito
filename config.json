@@ -1,0 +1,14 @@
+{
+    "update_time": "2024-04-30T20:54:21.482487",
+    "db": {
+        "Translation.db": [
+            "en_ka",
+            "only_en"
+        ]
+    },
+    "os": "Linux",
+    "dir for translated words": "translated-words/",
+    "translated files": [
+        "2-translated-words.txt"
+    ]
+}
