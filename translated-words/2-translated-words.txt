@@ -1,0 +1,192 @@
+bind &  დაკავშირება
+bound & დაკავშირებული
+Impact & გავლენა ზემოქმედება შედეგი
+relative & შედარებითი ფარდობითი(ნათესავი/მონათესავე)
+relatively & შედარებით
+negotiation(negotiate) & არს.სახ მოლაპარაკება(ზმნა მოლაპარაკება)
+lifespan & ვარგისიანობის ვადა
+withstand & გაძლება ატანა
+engage & ურთიერთქმედება მონაწილეობა
+interactive(interactively) &  ინტერაქტიული დიალოგური(ინტერაქტიულად)
+prior & წინა ადრე
+fussy & პრეტენზიული
+incredible & გასაოცარი დაუჯერებელი
+entire(entirely) & მთლიანი სრული(მთლიანად სრულად)
+Fortunately & საბედნიეროდ
+recall & შეხსენება ხელახლა გამოძახება
+further & სამომავლო დამატებითი სიღრმისეული
+daunt & შეშფოთება
+daunting & შემაშფოთებელი
+handful & ერთი მუჭა
+misc & (სრულად:miscellaneous შერეული მრავალფეროვანი)
+sense & აზრი გრძნობა
+essential & აუცილებელი
+essentially & არსებითად
+upon & შემდეგ თანახმად
+hopefully & იმედია
+over & არს.სახ-დასასრული(წინდებული x-ზე)
+distinct & გამორცეული ცალკეული
+crucial & გადამწყვეტი
+breakdown & ნგრევა ჩამოშლა
+versatile & უნივერსალური მრავალმხრივი
+gap(s) & უფსკრული გამოტოვება(მრავლ)
+rid & გათავისუფლება გარიდება
+previously & ადრე
+built & აშენებული აგებული
+feed & გამოკვება
+baseline & ძირითადი საბაზისო
+conduct & ქცევა
+conduction & გამტარობა
+nitty-gritty & დაწვრილებით
+fairly &  საკმაოდ ძალიან
+straight & პირდაპირი
+contribute & წვლილის შეტანა
+efficient & ეფექტური
+foster & წვლილის შეტანა
+distribute & მიწოდება დარიგება
+intelligence & ინტელექტი
+fraud & თაღლითობა
+breach(es) & დარღვევა(მრავლ.)
+adversary & მოწინააღმდეგე
+adversarial & საწინააღმდეგო მტრული
+likelihood & ალბათობა
+occurrence & მოვლენა
+observe & დაკვირვება
+sample & ნიმუში თარგი
+among & შორის
+instance(s) & მაგალითი(მრავლ.)
+fetch & მოტანა
+shall & უნდა
+deem(ed) & ჩათვლა(წარსულ) 
+specify & დაკონკრეტება
+Attachment & დანართი
+Batch & სერია პარტია
+vital & უმნიშვნელოვანესი
+subset & ქვესიმრავლე
+whether & თუ არა
+explicitly & ცხადად
+weird & უცნაური უჩვეულო
+launch & გაშვება
+amount & რაოდენობა მოცულობა ჯამი
+utility & სარგებელი
+outlier & გამოკვეთილი
+pertinent & შესაბამისი
+slightly & ოდნავ
+aside & განზე
+rogue & ყალბი
+enforce & აღსრულება შენარჩუნება
+leisure & თავისუფალი დრო
+acquire & შეძენა მიღება
+regarding & რარაცასთან დაკავშირებით
+conveniently & მოსახერხებლად
+fashion & მოდა
+otherwise & სხვაგვარად
+warrant & გარანტირება
+unto & მდე
+Introduction & შესავალი
+interrupt & შეაწყვეტინო
+proper & შესაბამისი
+properly & სესაბამისად
+wide & ფართო
+propagate & გავრცელება
+encourage & გამხნევება
+including & ჩატვლით
+informative & ინფორმაციული
+extensive & ფართო
+except & გარდა
+comprehensive & მრავლისმომცველი კომპლექსური
+beyond & გარდა საზღვრებს იქეთ
+entry(entries) & შესასვლელი(მრავლ)
+Notice & შემჩნევა აღნიშვნა
+spike & ავარდნა
+carry & ტარება
+replacement & ჩანაცვლება
+remain & დარჩენა
+subsequently & შემგდომში
+exposure & ურთიერთქმედება
+handy & მოხერხებული
+applet & ჯავაზე დაწერილი პროგრამა
+accept & მიღება
+abbreviate & შემოკლება
+drill & გაბურღვა
+take & აღება
+trail & ბილიკი
+particularly & განსაკუტრებით
+lead(led) & გაძღოლა(წარს) 
+yield & პროდუქტიულობა შემოსავლიანობა
+correlation & ურთიერთდაკავშირება თანაფარდობა
+seemingly & თითქოს
+workflow & სამუშაო პროცესი
+as & როგორც
+reside & ცხოვრება
+remediate & აღმოფხვრა გამოსწორება
+attach & მიმაგრება დართვა
+well-defined & მკაფიოდ განსაზღვრული
+common & საერთო ხშირი
+optionally & არჩევითი
+indicate & მითითება(ზმნა)
+significant & მნიშვნელოვანი
+audit & შემოწმება
+fail & დამარცხება ჩავარდნა
+savvy & გამოცდილი
+interact & ურთიერთქმედება
+criteria & კრიტერიუ
+meet(met) & შეხვედრა(წარს)
+notice & შემჩნევა
+legitimate & კანონიერი
+maintenance & მხარდაჭერა მომსახურება 
+Highlight & გამორჩეული
+snippet & ფრაგმენტი ამონარიდი
+Several & რამდენიმე
+examine & შემოწმება
+for & თვის
+in & ში
+estate & ქონება
+sift & გაფილტრა
+lightweight & მსუბუქი
+inefficient & არაეფექტური
+Guidelines & სახელმძრვანელო
+defining & განსაზმღვრელი
+Enclose & შემოსაზღვრა
+braces & ფრჩხილები
+semantic & სემანტიკური(საკვანძო სიტყვებით)
+confirm & დადასტურება
+construct & აგება
+monitor & კონტროლი
+external & გარე
+granular & დეტალური დაწვრილებითი
+remain &  დარჩენა
+aggregate & საერთო ჯამში
+majority & უმრავლესობა
+minority & უმცირესობა
+exclude & გამორიცხვა
+rulesets & წესების ნაკრები
+look & ყურება
+look for & ძებნა
+look after & მოვლა
+typo & ბეწდური შეცდომა
+condition & პირობა
+caution & სიფრთხილე
+thread & ნაკადი
+persistence & გამზლეობა შენარჩუნება
+deal & გამკლავება
+get & მიღება
+straightforward & პირდაპირი მარტივი
+along & ერთად გასწვრივ გზად
+fully & მთლიანად სრულიად
+agreement & შეთანხმება
+Since & მას შემდეგ რაც
+meaningful & აზრიანი
+simultaneously & ერთდროულად
+effort & მცდელობა
+Obviously & ცხადად
+largely & დიდწილად უმეტესად
+ample & საკმაო ფართო
+outlined & აღწერილი გამოკვეთილი
+typically & წესისამებრ
+prioritize & პრიორიტეტად მიღება
+rather & უფრო
+incorporate & ჩართვა
+firm & მტკიცე
+tedious & დამღლელი
+regret &  სინანული
